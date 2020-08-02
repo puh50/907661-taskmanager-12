@@ -386,6 +386,3 @@ for (let i = 0; i < TASK_COUNT; i++) {
 }
 
 render(boardElement, createLoadMoreButtonTemplate(), `beforeend`);
-
-
-
